@@ -2,210 +2,210 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/</loc>
     <lastmod>1970-01-01T07:33:42+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/2-prerequiste/2.1-create-iam-role/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.1-create-iam-role/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/2-prerequiste/2.1-create-iam-role/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/2-prerequiste/2.1-create-iam-role/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/2-prerequiste/2.1-create-iam-role/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.1-create-iam-role/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/2-prerequiste/2.3-create-lambda/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.3-create-lambda/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/2-prerequiste/2.3-create-lambda/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/2-prerequiste/2.3-create-lambda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/2-prerequiste/2.3-create-lambda/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.3-create-lambda/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/3-setting-up-environment-ec2-s3-docker/3.1-create-s3-uploadimage/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.1-create-s3-uploadimage/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/3-setting-up-environment-ec2-s3-docker/3.1-create-s3-uploadimage/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.1-create-s3-uploadimage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/3-setting-up-environment-ec2-s3-docker/3.1-create-s3-uploadimage/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.1-create-s3-uploadimage/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/1-introduce/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/1-introduce/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/1-introduce/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/1-introduce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/1-introduce/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/1-introduce/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/4-setting-up-docker-in-ec2/4.1-prerequiste-deployment-ec2/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/4.1-prerequiste-deployment-ec2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/4-setting-up-docker-in-ec2/4.1-prerequiste-deployment-ec2/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/4-setting-up-docker-in-ec2/4.1-prerequiste-deployment-ec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/4-setting-up-docker-in-ec2/4.1-prerequiste-deployment-ec2/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/4.1-prerequiste-deployment-ec2/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/2-prerequiste/2.2-create-dynamo/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.2-create-dynamo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/2-prerequiste/2.2-create-dynamo/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/2-prerequiste/2.2-create-dynamo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/2-prerequiste/2.2-create-dynamo/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.2-create-dynamo/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/2-prerequiste/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/2-prerequiste/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/2-prerequiste/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/2-prerequiste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/2-prerequiste/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/2-prerequiste/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/4-setting-up-docker-in-ec2/4.2-setup-dockerhub-in-ec2/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/4.2-setup-dockerhub-in-ec2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/4-setting-up-docker-in-ec2/4.2-setup-dockerhub-in-ec2/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/4-setting-up-docker-in-ec2/4.2-setup-dockerhub-in-ec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/4-setting-up-docker-in-ec2/4.2-setup-dockerhub-in-ec2/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/4.2-setup-dockerhub-in-ec2/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/3-setting-up-environment-ec2-s3-docker/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/3-setting-up-environment-ec2-s3-docker/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/3-setting-up-environment-ec2-s3-docker/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/3-setting-up-environment-ec2-s3-docker/3.3-setupdocker-image/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.3-setupdocker-image/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/3-setting-up-environment-ec2-s3-docker/3.3-setupdocker-image/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.3-setupdocker-image/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/3-setting-up-environment-ec2-s3-docker/3.3-setupdocker-image/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.3-setupdocker-image/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/4-setting-up-docker-in-ec2/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/4-setting-up-docker-in-ec2/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/4-setting-up-docker-in-ec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/4-setting-up-docker-in-ec2/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/5-deployment-and-testing-in-ec2/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/5-deployment-and-testing-in-ec2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/5-deployment-and-testing-in-ec2/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/5-deployment-and-testing-in-ec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/5-deployment-and-testing-in-ec2/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/5-deployment-and-testing-in-ec2/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/6-cleanup/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/6-cleanup/</loc>
     <lastmod>1970-01-01T07:33:42+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/6-cleanup/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/6-cleanup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/6-cleanup/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/6-cleanup/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/categories/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/categories/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/categories/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/categories/"
                 />
   </url><url>
-    <loc>https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/tags/</loc>
+    <loc>https://github.com/thinhnguyen501511.github.io/awsDeployment/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/vi/tags/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/thinhnguyen501511.github.io/FCJ-WorkShop/tags/"
+                href="https://github.com/thinhnguyen501511.github.io/awsDeployment/tags/"
                 />
   </url>
 </urlset>
