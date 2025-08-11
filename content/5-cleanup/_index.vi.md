@@ -23,9 +23,7 @@ Sau khi hoàn tất thử nghiệm hoặc triển khai, việc dọn dẹp tài 
    + Nhập **confirm** --> Chọn **Delete**
    
 
-![Clean](/images/6.clean/cleanlambda1.png)
 
-![Clean](/images/6.clean/cleanlambda2.png)
 
 
 ### Xóa DynamoDB Table và Stream.
@@ -35,9 +33,7 @@ Sau khi hoàn tất thử nghiệm hoặc triển khai, việc dọn dẹp tài 
    + Chọn **Delete**
    + Nhập **confirm** --> **Delete**
 
-![Clean](/images/6.clean/cleanlambda3.png)
 
-![Clean](/images/6.clean/cleanlambda4.png)
 
 
 #### Xóa SQS/SNS (DLQ)
@@ -58,9 +54,7 @@ Sau khi hoàn tất thử nghiệm hoặc triển khai, việc dọn dẹp tài 
 4. Chọn log group → **Actions → Delete log group**.
 5. Chọn **Delete** để xác nhận xóa.
 
-![Clean](/images/6.clean/cleanlambda5.png)
 
-![Clean](/images/6.clean/cleanlambda6.png)
 
 
 #### Xóa IAM Role
@@ -69,6 +63,3 @@ Sau khi hoàn tất thử nghiệm hoặc triển khai, việc dọn dẹp tài 
 3. Chọn **Delete**
 4. Nhập **delete** --> Chọn **Delete** để xoá.
 
-![Clean](/images/6.clean/cleanlambda7.png)
-
-![Clean](/images/6.clean/cleanlambda8.png)
