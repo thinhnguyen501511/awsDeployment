@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tạo RDS on AWS System Manager</title>
-    <link>https://thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/</link>
-    <description>Recent content in Tạo RDS on AWS System Manager</description>
+    <title>Tổng hợp dữ liệu on AWS System Manager</title>
+    <link>http://localhost:1313/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/</link>
+    <description>Recent content in Tổng hợp dữ liệu on AWS System Manager</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="https://thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

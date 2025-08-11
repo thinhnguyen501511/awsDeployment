@@ -2,210 +2,220 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/</loc>
-    <lastmod>1970-01-01T07:33:42+07:00</lastmod>
+    <loc>http://localhost:1313/awsDeployment/2-prerequiste/2.1-create-iam-role/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/"
+                href="http://localhost:1313/awsDeployment/vi/2-prerequiste/2.1-create-iam-role/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/"
+                href="http://localhost:1313/awsDeployment/2-prerequiste/2.1-create-iam-role/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.1-create-iam-role/</loc>
+    <loc>http://localhost:1313/awsDeployment/4-error-handling/4.1-exception-handling-in-lambda/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/2-prerequiste/2.1-create-iam-role/"
+                href="http://localhost:1313/awsDeployment/vi/4-error-handling/4.1-exception-handling-in-lambda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.1-create-iam-role/"
+                href="http://localhost:1313/awsDeployment/4-error-handling/4.1-exception-handling-in-lambda/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.3-create-lambda/</loc>
+    <loc>http://localhost:1313/awsDeployment/1-introduce/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/2-prerequiste/2.3-create-lambda/"
+                href="http://localhost:1313/awsDeployment/vi/1-introduce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.3-create-lambda/"
+                href="http://localhost:1313/awsDeployment/1-introduce/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.1-create-s3-uploadimage/</loc>
+    <loc>http://localhost:1313/awsDeployment/3-transformation-logic/3.1-create-s3-uploadimage/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.1-create-s3-uploadimage/"
+                href="http://localhost:1313/awsDeployment/vi/3-transformation-logic/3.1-create-s3-uploadimage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.1-create-s3-uploadimage/"
+                href="http://localhost:1313/awsDeployment/3-transformation-logic/3.1-create-s3-uploadimage/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/1-introduce/</loc>
+    <loc>http://localhost:1313/awsDeployment/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/1-introduce/"
+                href="http://localhost:1313/awsDeployment/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/1-introduce/"
+                href="http://localhost:1313/awsDeployment/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/4.1-prerequiste-deployment-ec2/</loc>
+    <loc>http://localhost:1313/awsDeployment/2-prerequiste/2.2-create-dynamo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/4-setting-up-docker-in-ec2/4.1-prerequiste-deployment-ec2/"
+                href="http://localhost:1313/awsDeployment/vi/2-prerequiste/2.2-create-dynamo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/4.1-prerequiste-deployment-ec2/"
+                href="http://localhost:1313/awsDeployment/2-prerequiste/2.2-create-dynamo/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.2-create-dynamo/</loc>
+    <loc>http://localhost:1313/awsDeployment/3-transformation-logic/3.2-create-rds/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/2-prerequiste/2.2-create-dynamo/"
+                href="http://localhost:1313/awsDeployment/vi/3-transformation-logic/3.2-create-rds/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/2-prerequiste/2.2-create-dynamo/"
+                href="http://localhost:1313/awsDeployment/3-transformation-logic/3.2-create-rds/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/</loc>
+    <loc>http://localhost:1313/awsDeployment/4-error-handling/4.2-log-errors-with-cloudwatch/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/"
+                href="http://localhost:1313/awsDeployment/vi/4-error-handling/4.2-log-errors-with-cloudwatch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.2-create-rds/"
+                href="http://localhost:1313/awsDeployment/4-error-handling/4.2-log-errors-with-cloudwatch/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/2-prerequiste/</loc>
+    <loc>http://localhost:1313/awsDeployment/2-prerequiste/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/2-prerequiste/"
+                href="http://localhost:1313/awsDeployment/vi/2-prerequiste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/2-prerequiste/"
+                href="http://localhost:1313/awsDeployment/2-prerequiste/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/4.2-setup-dockerhub-in-ec2/</loc>
+    <loc>http://localhost:1313/awsDeployment/2-prerequiste/2.3-create-lambda/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/4-setting-up-docker-in-ec2/4.2-setup-dockerhub-in-ec2/"
+                href="http://localhost:1313/awsDeployment/vi/2-prerequiste/2.3-create-lambda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/4.2-setup-dockerhub-in-ec2/"
+                href="http://localhost:1313/awsDeployment/2-prerequiste/2.3-create-lambda/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/</loc>
+    <loc>http://localhost:1313/awsDeployment/3-transformation-logic/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/"
+                href="http://localhost:1313/awsDeployment/vi/3-transformation-logic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/"
+                href="http://localhost:1313/awsDeployment/3-transformation-logic/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.3-setupdocker-image/</loc>
+    <loc>http://localhost:1313/awsDeployment/3-transformation-logic/3.3-log-and-monitor-with-cloudwatch/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/3-setting-up-environment-ec2-s3-docker/3.3-setupdocker-image/"
+                href="http://localhost:1313/awsDeployment/vi/3-transformation-logic/3.3-log-and-monitor-with-cloudwatch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/3-setting-up-environment-ec2-s3-docker/3.3-setupdocker-image/"
+                href="http://localhost:1313/awsDeployment/3-transformation-logic/3.3-log-and-monitor-with-cloudwatch/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/</loc>
+    <loc>http://localhost:1313/awsDeployment/4-error-handling/4.3-dead-letter-queue/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/4-setting-up-docker-in-ec2/"
+                href="http://localhost:1313/awsDeployment/vi/4-error-handling/4.3-dead-letter-queue/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/4-setting-up-docker-in-ec2/"
+                href="http://localhost:1313/awsDeployment/4-error-handling/4.3-dead-letter-queue/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/5-deployment-and-testing-in-ec2/</loc>
+    <loc>http://localhost:1313/awsDeployment/4-error-handling/4.4-error-using-cloudwatch-alarm/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/5-deployment-and-testing-in-ec2/"
+                href="http://localhost:1313/awsDeployment/vi/4-error-handling/4.4-error-using-cloudwatch-alarm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/5-deployment-and-testing-in-ec2/"
+                href="http://localhost:1313/awsDeployment/4-error-handling/4.4-error-using-cloudwatch-alarm/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/6-cleanup/</loc>
-    <lastmod>1970-01-01T07:33:42+07:00</lastmod>
+    <loc>http://localhost:1313/awsDeployment/4-error-handling/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/6-cleanup/"
+                href="http://localhost:1313/awsDeployment/vi/4-error-handling/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/6-cleanup/"
+                href="http://localhost:1313/awsDeployment/4-error-handling/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/categories/</loc>
+    <loc>http://localhost:1313/awsDeployment/5-cleanup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/categories/"
+                href="http://localhost:1313/awsDeployment/vi/5-cleanup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/categories/"
+                href="http://localhost:1313/awsDeployment/5-cleanup/"
                 />
   </url><url>
-    <loc>https://thinhnguyen501511.github.io/awsDeployment/tags/</loc>
+    <loc>http://localhost:1313/awsDeployment/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://thinhnguyen501511.github.io/awsDeployment/vi/tags/"
+                href="http://localhost:1313/awsDeployment/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thinhnguyen501511.github.io/awsDeployment/tags/"
+                href="http://localhost:1313/awsDeployment/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/awsDeployment/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:1313/awsDeployment/vi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/awsDeployment/tags/"
                 />
   </url>
 </urlset>
