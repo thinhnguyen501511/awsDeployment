@@ -20,9 +20,7 @@ After completing testing or deployment, cleaning up unused AWS resources is cruc
    + Choose **Actions** → **Delete**.  
    + Type **confirm** → Select **Delete**.  
 
-![Clean](/images/6.clean/cleanlambda1.png)  
 
-![Clean](/images/6.clean/cleanlambda2.png)  
 
 ---
 
@@ -33,9 +31,7 @@ After completing testing or deployment, cleaning up unused AWS resources is cruc
    + Choose **Delete**.  
    + Type **confirm** → **Delete**.  
 
-![Clean](/images/6.clean/cleanlambda3.png)  
 
-![Clean](/images/6.clean/cleanlambda4.png)  
 
 💡 **Note:** If the table has DynamoDB Streams enabled, deleting the table will also delete the associated stream and remove any related Lambda triggers.
 
@@ -61,9 +57,6 @@ After completing testing or deployment, cleaning up unused AWS resources is cruc
 4. Select the log group → **Actions → Delete log group**.  
 5. Click **Delete** to confirm.  
 
-![Clean](/images/6.clean/cleanlambda5.png)  
-
-![Clean](/images/6.clean/cleanlambda6.png)  
 
 ---
 
@@ -74,6 +67,4 @@ After completing testing or deployment, cleaning up unused AWS resources is cruc
 3. Click **Delete**.  
 4. Type **delete** → Click **Delete** to confirm.  
 
-![Clean](/images/6.clean/cleanlambda7.png)  
 
-![Clean](/images/6.clean/cleanlambda8.png)  
